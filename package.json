@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Free Code Camp Camper Leaderboard project",
   "main": "index.js",
+    "Homepage": "http://tebogos.github.io/fcc-camper-leaderboard",
   "scripts": {
     "start": "npm run build",
     "build": "webpack -d && webpack-dev-server --content-base src/ --inline --hot ",
-    "build:prod": "webpack -p"
+    "build:prod": "webpack -p",
+    "predeplay": "npm run build:prod",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [
     "fcc",
