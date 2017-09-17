@@ -6,4 +6,4 @@ The user has the choice to list the all time leaders or recent leaders by clicki
 
 You can click the link below to view the Camper Leaderboard demo.
 
-[Please click this link to view the demo...](https://tebogos.github.io/fcc-camper-leaderboard")
+[Please click this link to view the demo...](https://tebogos.github.io/fcc-camper-leaderboard)
